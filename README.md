@@ -2,10 +2,14 @@ Applied AI Solutions for Business and Technology<br>
 Rohit Kumar Kanduri<br>
 
 Reflection<br>
+
+**1. What did I learn across all modules?**<br>
 Before this course, I mostly thought machine learning was about choosing the right algorithm. After doing these seven projects, I see that the algorithm is only one part of it. The first project, the Machine Learning Review, had me go through the whole process: looking at the data, cleaning it, building a pipeline, training a model, and checking it with cross-validation. I ended up using that same basic process in almost every project after that. In the Classification project, I learned that accuracy can look good even when a model is not doing well, so I started paying more attention to precision, recall, and the confusion matrix. The SVM and Decision Tree projects showed me how much the settings matter. A small change in something like C, gamma, or tree depth could make the model overfit or underfit. Dimensionality Reduction was interesting because I could see with PCA how much of the data's variance stayed after reducing the number of features. The neural networks and NLP projects were the hardest for me, and I still consider myself a beginner there, but they helped me see how the earlier topics connect to deep learning.<br>
 
+**2. What skills did I develop?**<br>
 In terms of skills, I got more comfortable with preprocessing steps like handling missing values, scaling features, and encoding categories. I practiced building models in Scikit-Learn and Keras and tuning them by changing parameters and comparing the results. For evaluation, I learned to look at more than one number, using cross-validation, classification reports, and training history. Visualization helped me a lot too. Sometimes a plot of the data, a decision boundary, or the training curve made more sense to me than the metrics did. Writing the text explanations in each notebook also made me think about what the results actually meant.<br>
 
+**3. How do these projects prepare me for real-world ML tasks?**<br>
 I think these projects help prepare me for real-world ML and AI work because the steps are the same ones a real problem would need: understand the data, prepare it carefully, try a few models, and pick one I can explain. I work with business data and reporting, so it was useful to see how a predictive model could be built on that kind of data and checked properly. I still have a lot to learn, but I feel more confident taking a dataset, building a basic model, testing it, and explaining the results to someone who is not technical.<br>
 
 AI Statement<br>
